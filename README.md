@@ -9,19 +9,26 @@ The goal is to provide an open, collaborative hub for students, educators, and d
 
 This project is a call for the **community to collaborate**, to **show that Java is still strong**, and to highlight the **numerous resources available** for learning or teaching Java today.
 
-
-
 ## 📖 Resources
 
+### Wiki
+
 - [Java in Education – Wiki Page](https://github.com/jcp-org/Java-in-Education/wiki/Java-in-Education---Wiki-Page) – Community-curated wiki about Java teaching and educational initiatives.
+
+### Tutorials
+
 - [Java Quick Start](https://foojay.io/java-quick-start/) - On Foojay.io: Step-by-step instructions to install Java on Windows, Linux, and macOS. And 10 short lessons to learn the very basics of the Java programming language.
+
+### Raspberry Pi
+
+- [Getting started with Java and electronics with JBang - Pi4J ](https://www.pi4j.com/examples/jbang/) - Want to get started with Java programming on the Raspberry Pi? JBang is a great way to create your first program to control electronic components connected to the GPIO pins of a Raspberry Pi.
 
 ## 📚 How to Contribute
 
 This is not "my" list — it’s **our community’s list**. Contributions are welcome from anyone! 🙌  
 
 1. **Fork this repository**
-2. Add your favorite Java educational resource(s) under the appropriate section below.
+2. Add your favorite Java educational resource(s) under the appropriate section.
 3. Submit a **pull request** with a short description of the resource.
 
 > Please keep descriptions concise (1–2 lines) and always include the resource’s name + link.
