@@ -14,8 +14,7 @@ This project is a call for the **community to collaborate**, to **show that Java
 ## 📖 Resources
 
 - [Java in Education – Wiki Page](https://github.com/jcp-org/Java-in-Education/wiki/Java-in-Education---Wiki-Page) – Community-curated wiki about Java teaching and educational initiatives.
-
-
+- [Java Quick Start](https://foojay.io/java-quick-start/) - On Foojay.io: Step-by-step instructions to install Java on Windows, Linux, and macOS. And 10 short lessons to learn the very basics of the Java programming language.
 
 ## 📚 How to Contribute
 
