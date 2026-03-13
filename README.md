@@ -23,6 +23,9 @@ This project is a call for the **community to collaborate**, to **show that Java
 ### Tutorial
 
 - [Java Quick Start](https://foojay.io/java-quick-start/) - On Foojay.io: Step-by-step instructions to install Java on Windows, Linux, and macOS. And 10 short lessons to learn the very basics of the Java programming language.
+- [Creating your first Java application with IntelliJ IDEA](https://www.youtube.com/watch?v=V_vXRRydnYI): A video tutorial on how to create and run a simple Java application that prints Hello, World! to the system output.
+- [Create your first Java application](https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html): A written tutorial on how to create, build, run and package a simple Java application.
+- [Dev.java/learn](https://dev.java/learn/): A collection of tutorials on how to get started with Java, getting to know the Java language, and more.
 - [Getting Started with Java by Devoxx4Kids](https://github.com/devoxx4kids/materials/blob/master/workshops/java/en/chapters/intro.adoc): Installing and Fundamentals.
 - [Minecraft Modding by Devoxx4Kids](https://github.com/devoxx4kids/materials/tree/master/workshops/minecraft): How to do Minecraft modding with two different tools:
   - Forge: client-side modding, which only works if you have the mod installed. With Forge, you can do lots of cool things like making new blocks, items, mobs, and even biomes and dimensions.
