@@ -1,6 +1,6 @@
 # Foojay Java in Education Catalog
 
-Resources for the Foojay Java in Education Catalog.
+Resources for the Foojay Java in Education Catalog published on [foojayio.github.io/java-education-catalog](https://foojayio.github.io/java-education-catalog/).
 
 For contributors, see: [CONTRIBUTING.md](CONTRIBUTING.md)
 
