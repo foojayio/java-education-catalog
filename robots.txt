@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://foojayio.github.io/java-education-catalog/sitemap.xml
