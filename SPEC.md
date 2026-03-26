@@ -131,4 +131,7 @@ The Foojay Java in Education Catalog is a community-driven catalog of Java learn
 
 ## Footer
 
-"Foojay Java in Education Catalog — Curating Java education resources. Contributions welcome on [GitHub](https://github.com/foojayio/java-education-catalog)."
+Foojay Java in Education Catalog. Contributions welcome on [GitHub](https://github.com/foojayio/java-education-catalog).
+
+This website and the workflow are based on the work done by [James Ward](https://github.com/jamesward) for [ai4jvm.com](https://ai4jvm.com/).
+
