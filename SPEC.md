@@ -91,6 +91,12 @@ The Foojay Java in Education Catalog is a community-driven catalog of Java learn
 - **Description:** Installing and Fundamentals.
 - **Links:** [Repository](https://github.com/devoxx4kids/materials/blob/master/workshops/java/en/chapters/intro.adoc):
 
+### Create your first Agentic AI Java application with Spring AI
+
+- **Badges:** Tutorial
+- **Description:** A step-by-step tutorial to go from a coding apprentice to a Game master of AI agent orchestration.
+- **Links:** [Repository](https://github.com/aws-samples/sample-once-upon-spring-ai)
+
 ## Books
 
 ### Raising Young Coders: A Parent’s Guide to Teaching Programming at Home
