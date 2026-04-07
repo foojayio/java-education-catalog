@@ -65,6 +65,12 @@ The Foojay Java in Education Catalog is a community-driven catalog of Java learn
 - **Description:** A collection of tutorials on how to get started with Java, getting to know the Java language, and more.
 - **Links:** [Website](https://dev.java/learn/)
 
+### Learn Jakarta EE
+
+- **Badges:** Website
+- **Description:** A collection of tutorials on how to get started with Jakarta EE.
+- **Links:** [Website](https://jakarta.ee/learn/)
+
 ## Tutorials
 
 ### Foojay Java Quick Start
