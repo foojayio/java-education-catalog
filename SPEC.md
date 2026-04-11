@@ -81,7 +81,7 @@ The Foojay Java in Education Catalog is a community-driven catalog of Java learn
 
 ### Creating your first Java application with IntelliJ IDEA
 
-- **Badges:** Video
+- **Badges:** Tutorial, Video
 - **Description:** A video tutorial on how to create and run a simple Java application that prints Hello, World! to the system output.
 - **Links:** [Video](https://www.youtube.com/watch?v=V_vXRRydnYI)
 
